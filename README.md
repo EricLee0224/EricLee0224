@@ -1,4 +1,4 @@
-### Hi there 👋, I am Weize (Eric) Li.
+### Hi there 👋, I am Weize (Eric) Li 李维泽.
 
 
 - 🔭 I'm currently in my gap year and doing some research on computer vision, graphics and machine learning.  
