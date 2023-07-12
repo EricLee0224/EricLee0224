@@ -6,8 +6,8 @@
 - 🤔 I’m looking for Mphill/Ph.D@CS in Spring/Fall-2024. 
 - 📫 How to reach me: liweize0224@gmail.com  
 - ⚡ Fun fact: Except for research, I also enjoy football⚽, photography📷, Calligraphy✍️, Fitness💪.
-
-
-
-
-“Good attitude, persistent dedication, sacrifice and willingness to constantly surpass oneself.” ———— Lionel Messi.
+  
+  
+  
+  
+“Good attitude, persistent dedication, sacrifice and willingness to constantly surpass oneself.” —— Lionel Messi.
