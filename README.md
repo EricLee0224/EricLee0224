@@ -1,4 +1,4 @@
-### Hi there 👋, I am Weize Li (李维泽 in chinese).
+### Hi there 👋, I am Weize Li (李维泽 in Chinese).
 
   My long-term research goal is to build agents that efficiently understand the physical world, then apply their knowledge to generate and edit the digital world, enhancing adaptability for continuous learning and innovation in both real and virtual domains.  
 
