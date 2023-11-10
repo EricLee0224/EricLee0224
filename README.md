@@ -4,6 +4,6 @@
 
 Research Interests: 3D Scene Understanding, Embodied AI, Neural Fields Editing.
 
-- 🤔 I’m actively looking for Ph.D@CV/CG/RO in Spring/Fall-2024. 
+- 🤔 I’m actively looking for Ph.D@vision/Graphics/Robotics in Fall 2024 intake. 
   
 “Good attitude, persistent dedication, sacrifice and willingness to constantly surpass oneself.” —— Lionel Messi.
