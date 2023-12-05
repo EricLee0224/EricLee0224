@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Weize Li (李维泽 in Chinese).
 
-  My long-term research goal is to build machines that can effectively learn to understand the physical world and have reasoning capabilities, then apply their knowledge to generate and manipulate the digital world in AR, enhancing the adaptive capacity of machines to continuously learn and innovate in both the real and virtual domains.
+  My long‐term research goal is to build agents that efficiently understand the physical world, then apply their knowledge to generate
+and edit the digital world, enhancing AI’s adaptability for continuous learning and innovation in both real and virtual domains.
 
 Research Interests: 3D Scene Understanding, Embodied AI, Neural Fields Editing.
 
