@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Weize Li.
 
-My research interests lie at the intersection of 3D vision, graphics, and robotics, dedicated to Embodied AI.
+My research interests lie at {3D vision, graphics, robotics} for Embodied AI.
 
 “Good attitude, persistent dedication, sacrifice and willingness to constantly surpass oneself.” —— Lionel Messi.
